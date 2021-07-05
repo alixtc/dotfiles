@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = alix.tiran-cappello@laposte.net
+	name = Alix Tiran-Cappello
